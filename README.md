@@ -2,13 +2,6 @@
 
 idke 2.0 (Mona elements)
 https://9029.s-ul.eu/wtexf7Ez
- 
-![screenshot173](https://user-images.githubusercontent.com/87989934/127012236-1cf18888-5d49-436a-9f8b-d55c63492560.jpg)
-
-![screenshot178](https://user-images.githubusercontent.com/87989934/127012256-f78681d6-2fed-44b2-83a1-3c4d57c1c7e7.jpg)
-
-![screenshot195](https://user-images.githubusercontent.com/87989934/127012371-64ef005a-8496-4245-8f10-9d7f282f8e14.jpg)
-
 
 idke 2.0 (clean) https://docs.google.com/spreadsheets/d/1UEZjYdV37K9yvxPXrgvXgKIQehFBsBol1dQBcYRQfd0/edit?usp=drive_web&ouid=109897586193656527669
 
